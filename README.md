@@ -140,7 +140,7 @@ public class MainActivity extends AppCompatActivity {
 
 <img src="2.png" width="400">
 
-![](3.pmg)
+![](3.png)
 
 ## RESULT:
 
